@@ -1,2 +1,2 @@
-# pbi
-Rakamin Project is a project-based internship 
+# PBI
+Sebagai seorang Big Data Analytics Intern di Kimia Farma, Anda akan dihadapkan dengan serangkaian tantangan yang memerlukan pemahaman mendalam tentang data dan kemampuan analisis. Salah satu proyek utama Anda adalah mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023. Dengan melakukan proses ini, kami harap Anda dapat memahami pekerjaan seorang Big Data Analyst di Kimia Farma.
